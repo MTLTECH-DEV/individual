@@ -1,12 +1,18 @@
 * {box-sizing: border-box;}
-
+.theader{background-color:#f2f2f2;border-left: 5px solid #7CCDE8;border-right: 5px solid #3cb4dd;}
 .p3 {
   font-family:Calibri;
   position: static;
   width:1010px;
   margin: auto;
 
- .th{ }
+.row{width:20%; left:20%; top:-90%;}
+.twidth{text-align: right;font-size:12px;color:#282C65;}
+.img{vertical-align:middle;}
+.nsf1{width:140px; top:-90%;}
+.mtl{width:120px;}
+.name{float:right; width:70%}
+.name1{float:left; width:25%}
 }
 .nav{
 	display:flex; background-color:#f2f2f2;
@@ -40,7 +46,7 @@
 	flex:33.33%;padding:5px;position:relative; left:80px;top:55px;
 }
 .back{
-	background-image: linear-gradient(to right,#42bcf5, #42f5d7);color:white;
+	background-image: linear-gradient(to right,#42f5d7,  #42bcf5);color:white;
 }
 .th{background-color:#282C65;color:white;border-left: 5px solid #7CCDE8;"
 }
@@ -102,12 +108,13 @@
 	border: 1px solid #dddddd;
   text-align: left;
     font-size:12px;
+	width:50%;
   padding: 8px;background-color: #dddddd;color:#282C65;
 }
 .tdl{
 	border: 1px solid #dddddd;
   text-align: left;
-    font-size:12px;
+    font-size:12px;width:50%;
   padding: 8px;background-color: #f2f2f2;color:#282C65;
 }
 .nsf{
