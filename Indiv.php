@@ -8,21 +8,21 @@ $css = file_get_contents('style.css');
 $mpdf->WriteHTML($css,1);
 $mpdf->SetHTMLHeader('
 
-<table width="100%" style="background-color:#f2f2f2;border-left: 5px solid #7CCDE8;border-right: 5px solid #3cb4dd;">
+<table width="100%" class="theader">
     <tr>
-        <td><img src="img\rlms.png" style="width:20%; left:20%; top:-90%;"></td>
-        <td  ><img src="img\rlmsL.png" height="28"></td>
-        <td width="33%" style="text-align: right;font-size:12px;color:#282C65;"><img style="vertical-align:middle" src="img\rlmsL.png" height="28"><span><b>LEARNER ATTENDENCE REPORT</b></span>
+        <td><img src="img\rlms.png" class="row"></td>
+        <td><img src="img\rlmsL.png" height="28"></td>
+        <td width="33%" class="twidth"><img class="img" src="img\rlmsL.png" height="28"><span><b>LEARNER ATTENDENCE REPORT</b></span>
 </td>
     </tr>
 </table>
 </div>
   <table width="100%">
     <tr>
-      <td><img src="img\nsf.png" style="width:140px; top:-90%;"></td>
+      <td><img src="img\nsf.png" class="nsf1"></td>
         <td width="20%" align="center"><img src="img\rlmsL.png"></td>
 		<td  ><img src="img\rlmsL.png" height="28"></td>
-        <td width="8%"><img src="img\mtl1.PNG"  style="width:120px;">
+        <td width="8%"><img src="img\mtl1.PNG"  class="mtl">
 </td>
     </tr>
 	<br/>
@@ -107,24 +107,28 @@ $mpdf->WriteHTML('<br/><br/><br/><br/><br/><br/><br/><br/><div class="back"><h3>
  <table width="800px">
   <tr>
     <td >
-      <label>Facilitator Signature:<img src="img\f.PNG" class="" alt=""></label>
-	  <hr style=";height:30px;color:#42f5d7;width:50%;height:1%; align:left;"/>
+      <label>Facilitator Signature:</label><br/>
+	<img src="img\f.PNG" class="" alt=""><br/>
 	  2020-11-05 @ 08:41:51
 	</td>
     <td>
-      <label >SDP Representative Signature:<img src="img\sdp.PNG"></label>
-	  	   <hr style=";height:30px;color:#42f5d7;width:70%;height:1%;"/>
+      <label >SDP Representative Signature:</label><br/>
+	  	 <img src="img\sdp.PNG"><br/>
 	   2020-11-05 @ 08:41:51
 </td>
    </table>
 	<div>
   </div>
   </div>
-  <div class="s">
+
+', \Mpdf\HTMLParserMode::HTML_BODY, false, false);
+$mpdf->WriteHTML('<br/><br/>', \Mpdf\HTMLParserMode::HTML_BODY, true, false);
+
+$mpdf->WriteHTML('  <div class="s">
   <div >
          <li class="list">
-		 <div style="float:right; width:70%"><h1>NOMPUMELELO MZIMELA</h1></div>
-		  <div style="float:left; width:25%"><img src="img\m.PNG"></div>
+		 <div class="name"><h1>NOMPUMELELO MZIMELA</h1></div>
+		  <div class="name1"><img src="img\m.PNG"></div>
         </li>
         </div>
 		<div>
@@ -221,8 +225,8 @@ $mpdf->WriteHTML('<br/><br/><br/><br/><br/><br/><br/><br/><div class="back"><h3>
     <td class="tdl">1</td>
  
 </table>
+  <br/>', \Mpdf\HTMLParserMode::HTML_BODY, true, false);
 
-', \Mpdf\HTMLParserMode::HTML_BODY, false, false);
 $mpdf->WriteHTML('<div style="text-align: right;color:black; "><b>NSF | Learner Attendance Report | 2020-11-06 @ 08:26:23 | page: 1 of 1</b></div>');
 $mpdf->SetHTMLFooter('
 
