@@ -48,56 +48,56 @@ $mpdf->WriteHTML('<br/><br/><br/><br/><br/><br/><br/><br/><div class="back"><h3>
   <td class="image1"></td>
   <td class="image1"></td>
   <td class="image1"></td>
-    <td class="image1" ><b><img class="image"  src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
-	  <br/><hr/> 2021-08-18</b></td>
-    <td class="image1"><img class="image"  src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+    <td class="image1" ><b><img src="img\signiture.png" height="10%"></br><b>Contact Time</b><br/>188:30:09
+	  <br/><hr/> 2021-08-18</td>
+    <td class="image1"><img src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
 	  <td class="image1">2021-08-18</td>
 	  <td class="image1">2021-08-18</td>
    
   </tr>
   <tr>
-    <td class="image" ><img  src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+    <td class="image" ><img  src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-    <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+    <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td  class="image"><img  src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td  class="image"><img  src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
   
   </tr>
   <tr>
-      <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+      <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img  src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img  src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
 	  <td class="image">2021-08-18</td>
 	  <td class="image">2021-08-18</td>
   
   </tr>
   <tr>
-       <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+       <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
-	   <td class="image" ><img   src="img\signiture.png"></br>  <b>Contact Time</b><br/>188:30:09
+	   <td class="image" ><img   src="img\signiture.png" height="10%"></br>  <b>Contact Time</b><br/>188:30:09
 	  <br/><hr/> 2021-08-18</td>
 	  <td class="image">2021-08-18</td>
 	  <td class="image">2021-08-18</td>
@@ -108,12 +108,12 @@ $mpdf->WriteHTML('<br/><br/><br/><br/><br/><br/><br/><br/><div class="back"><h3>
   <tr>
     <td >
       <label>Facilitator Signature:</label><br/>
-	<img src="img\f.PNG" class="" alt=""><br/>
+	<img src="img\f.PNG" height="10%"><br/>
 	  2020-11-05 @ 08:41:51
 	</td>
     <td>
       <label >SDP Representative Signature:</label><br/>
-	  	 <img src="img\sdp.PNG"><br/>
+	  	 <img src="img\sdp.PNG" height="10%"><br/>
 	   2020-11-05 @ 08:41:51
 </td>
    </table>
@@ -128,7 +128,7 @@ $mpdf->WriteHTML('  <div class="s">
   <div >
          <li class="list">
 		 <div class="name"><h1>NOMPUMELELO MZIMELA</h1></div>
-		  <div class="name1"><img src="img\m.PNG"></div>
+		  <div class="name1"><img src="img\m.png" height="54%"></div>
         </li>
         </div>
 		<div>
